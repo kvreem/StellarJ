@@ -14,6 +14,16 @@ If you have another IDE that you like than you don't need to download Intelij.
 
 ----
 
+## Stellar 
+
+https://www.stellar.org/
+
+JavaDoc: https://stellar.github.io/java-stellar-sdk/
+
+Guides: https://www.stellar.org/developers/guides/
+
+----
+
 ## Class Structure 
 
 `StellarDemo` - Run this to test program. 
